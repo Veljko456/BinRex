@@ -3,6 +3,6 @@
 version 0.1;
 
 if(install_this == true){
-  enjoy!
+  enjoy();
 }
 this is demo version of this project.
